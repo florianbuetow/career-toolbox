@@ -1,0 +1,9 @@
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac OS-specific storage files
+.DS_Store
